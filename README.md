@@ -30,10 +30,12 @@
 ⏩ console.log(marks); <br>
 <br>
 ✅ Booleans <br>
+<br>
 📍 Case 1 <br>
 ⏩ var a = true; <br>
 ⏩ var b = false; <br>
 ⏩ console.log(a,b); <br>
+<br>
 📍 Case 2 <br>
 ⏩ var notDefined = undefined; <br>
 ⏩ console.log(notDefined); <br>
