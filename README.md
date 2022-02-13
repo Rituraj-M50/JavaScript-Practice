@@ -35,15 +35,16 @@
 <br>
 ✅ Booleans <br>
 <br>
-📍 Case 1 <br>
 ⏩ var a = true; <br>
 ⏩ var b = false; <br>
 ⏩ console.log(a,b); <br>
 <br>
-📍 Case 2 <br>
+✅ undefined <br>
+<br>
 ⏩ var notDefined = undefined; <br>
 ⏩ console.log(notDefined); <br>
 <br>
-📍 Case 3 <br>
+✅ null <br>
+<br>
 ⏩ var emptyHere = null; <br>
 ⏩ console.log(emptyHere); <br>
