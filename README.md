@@ -5,7 +5,7 @@
 ✅ alert("Hi There"); <br>
 ✅ document.write("This is my document"); <br>
 <br>
-2️⃣ JavaScript Console API <br>
+2️⃣ JavaScript Console API - <br>
 ✅ console.log("Hello World", 4 + 6, "Another log"); <br>
 ✅ console.warn("This is a warning"); <br>
 ✅ console.error("This is an error"); <br>
