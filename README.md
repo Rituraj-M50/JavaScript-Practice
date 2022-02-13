@@ -57,6 +57,23 @@
 <br>
 📍 There are two types of data types in JavaScript - <br>
 <br>
-1️⃣ Primitive data type - undefined, null, number, string, boolean, symbol <br>
-2️⃣ Reference data type - arrays and object <br>
+🎯 Primitive data type - undefined, null, number, string, boolean, symbol <br>
+🎯 Reference data type - arrays and object <br>
+<br>
+5️⃣ Operators in JavaScript - <br>
+<br>
+✅ Arithmetic Operators <br>
+<br>
+⏩ var a = 100; <br>
+⏩ var b = 20; <br>
+⏩ console.log("Value of a + b is ", a + b); <br>
+⏩ console.log("Value of a - b is ", a - b); <br>
+⏩ console.log("Value of a * b is ", a * b); <br>
+⏩ console.log("Value of a / b is ", a / b); <br>
+<br>
+✅ Assignment Operators <br>
+<br>
+⏩ var c = b; <br>
+⏩ c += 5; <br>
+⏩ console.log(c); will give 25 <br>
 
