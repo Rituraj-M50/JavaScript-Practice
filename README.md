@@ -1,4 +1,4 @@
-# JavaScript-Practice
+# JavaScript-Tutorial By Rituraj Mahato
 
 1️⃣ Ways to print in JavaScript - <br><br> 
 ✅ console.log("Hello World"); <br>
