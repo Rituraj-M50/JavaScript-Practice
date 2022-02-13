@@ -12,5 +12,5 @@
 <br>
 3️⃣ What are Variables? - Containers to store data values <br>
 ✅ var num1 = 34; <br>
-   var num2 = 56; <br>
-   console.log("The addition of num1 and num2 will give:", num1 + num2); <br>
+⏩ var num2 = 56; <br>
+⏩ console.log("The addition of num1 and num2 will give:", num1 + num2); <br>
