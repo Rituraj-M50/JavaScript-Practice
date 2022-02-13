@@ -28,6 +28,12 @@
 ⏩ var num1 = 36.42; <br>
 ⏩ var num2 = 412;<br>
 <br>
+✅ Arrays <br>
+<br>
+⏩ var arr = [1,2,3,4,5]; <br>
+⏩ console.log(arr[0]); will give 1 <br>
+⏩ console.log(arr[1]); will give 2 <br>
+<br>
 ✅ Objects <br>
 <br>
 ⏩ var marks = {Rituraj: 82, Shyam: 68, Max: 75}; <br>
@@ -48,3 +54,9 @@
 <br>
 ⏩ var emptyHere = null; <br>
 ⏩ console.log(emptyHere); <br>
+<br>
+📍 There are two types of data types in JavaScript - <br>
+<br>
+1️⃣ Primitive data type - undefined, null, number, string, boolean, symbol <br>
+2️⃣ Reference data type - arrays and object <br>
+
