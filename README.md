@@ -122,3 +122,13 @@
 ⏩ av2 = avg(6, 4); <br>
 ⏩ console.log(av1, av2); will give 3 and 5 <br>
 
+7️⃣ Conditionals in JavaScript - <br>
+
+✅ if and else statements <br> <br>
+⏩ var age = 20; <br>
+⏩ if (age > 18){
+    console.log("You can drink alcohol");
+} <br> else {
+    console.log("You can't drink alcohol");
+}
+
