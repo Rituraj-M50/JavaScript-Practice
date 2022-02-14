@@ -6,16 +6,16 @@
 ✅ document.write("This is my document"); <br>
 <br>
 2️⃣ JavaScript Console API - <br><br> 
-✅ console.log("Hello World", 4 + 6, "Another log"); <br>
+✅ console.log("Hello World", 5 + 5, "Another log"); <br>
 ✅ console.warn("This is a warning"); <br>
 ✅ console.error("This is an error"); <br>
 <br>
 3️⃣ What are Variables? - Containers to store data values <br><br> 
 ✅ Addition <br>
 <br>
-⏩ var num1 = 34; <br>
-⏩ var num2 = 56; <br>
-⏩ console.log("The addition of num1 and num2 will give:", num1 + num2); <br>
+⏩ var num1 = 35; <br>
+⏩ var num2 = 55; <br>
+⏩ console.log("Addition of num1 and num2 will give:", num1 + num2); <br>
 <br>
 4️⃣ Datatypes in JavaScript - <br><br>
 ✅ String <br>
