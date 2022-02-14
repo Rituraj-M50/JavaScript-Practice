@@ -110,7 +110,7 @@
 
 6️⃣ Functions in JavaScript - <br>
 
-📍 Function are used to create DRY code - It means don't repeat yourself. <br>
+📍 Functions are used to create DRY code - It means don't repeat yourself. <br>
 <br>
 ✅ Average of two numbers. <br>
 
