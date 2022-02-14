@@ -79,34 +79,34 @@
 <br>
 ✅ Comparision Operators <br>
 <br>
-⏩var x = 35; <br>
-⏩var y = 55; <br>
-⏩console.log(x == y); will give false <br>
-⏩console.log(x >= y); will give false <br>
-⏩console.log(x <= y); will give true <br>
-⏩console.log(x > y); will give false <br>
-⏩console.log(x < y); will give true <br>
+⏩ var x = 35; <br>
+⏩ var y = 55; <br>
+⏩ console.log(x == y); will give false <br>
+⏩ onsole.log(x >= y); will give false <br>
+⏩ console.log(x <= y); will give true <br>
+⏩ console.log(x > y); will give false <br>
+⏩ console.log(x < y); will give true <br>
 <br>
 ✅ Logical Operators <br>
 <br>
 🎯 Logical AND <br>
 <br>
-⏩console.log(true && true); will give true <br>
-⏩console.log(true && false); will give false <br>
-⏩console.log(false && true); will give false <br>
-⏩console.log(false && false); will give false <br>
+⏩ console.log(true && true); will give true <br>
+⏩ console.log(true && false); will give false <br>
+⏩ console.log(false && true); will give false <br>
+⏩ console.log(false && false); will give false <br>
 <br>
 🎯 Logical OR <br>
 <br>
-⏩console.log(true || true); will give true <br>
-⏩console.log(true || false); will give true <br>
-⏩console.log(false || true); will give true <br>
-⏩console.log(false || false); will give false <br>
+⏩ console.log(true || true); will give true <br>
+⏩ console.log(true || false); will give true <br>
+⏩ console.log(false || true); will give true <br>
+⏩ console.log(false || false); will give false <br>
 <br>
 🎯 Logical NOT <br>
 <br>
-⏩console.log(!false); will give true <br>
-⏩console.log(!true); will give false <br>
+⏩ console.log(!false); will give true <br>
+⏩ console.log(!true); will give false <br>
 
 6️⃣ Functions in JavaScript - <br>
 
