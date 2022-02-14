@@ -131,4 +131,16 @@
 } <br> else {
     console.log("You can't drink alcohol");
 }
+<br> <br>
+✅ if - else ladder <br>
+<br>
+📍 In if-else ladder, if one statement is true the rest would not be executed. <br>
+<br>
+⏩ if(age == 10){
+    console.log("I am 10 years old");
+}<br> else if(age > 10) {
+    console.log("My age is more than 10");
+}<br> else if (age < 10) {
+    console.log("My age is less than 10");
+}
 
