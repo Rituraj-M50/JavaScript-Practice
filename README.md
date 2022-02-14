@@ -108,3 +108,17 @@
 ⏩console.log(!false); will give true <br>
 ⏩console.log(!true); will give false <br>
 
+6️⃣ Functions in JavaScript - <br>
+
+📍 Function are used to create DRY code - It means don't repeat yourself. <br>
+<br>
+✅ Average of two numbers. <br>
+
+⏩ function avg(a,b){
+    c = (a + b)/2;
+    return c;
+ } <br>
+⏩ av1 = avg(2, 4); <br>
+⏩ av2 = avg(6, 4); <br>
+⏩ console.log(av1, av2); will give 3 and 5 <br>
+
